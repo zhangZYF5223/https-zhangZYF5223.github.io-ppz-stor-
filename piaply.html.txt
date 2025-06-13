@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="theme-color" content="#012169" />
+  <!-- <link rel="stylesheet" href="./index.css"/> -->
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/pp32.png" />
+  <link rel="dns-prefetch" href="https://www.paypalobjects.com/" />
+
+  <!-- Font and normalizer necessary for the whole library -->
+
+  <link rel="stylesheet"
+    href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/3-0-0/fonts-and-normalize.min.css" />
+
+  <!-- Preload font files for better performance -->
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalPlain-Medium.woff2" />
+
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalPlain-Regular.woff2" />
+
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalPlain-Bold.woff2" />
+
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalPro-Black.woff2" />
+
+  <title>
+    设置您的企业账户——PayPal
+  </title>
+  <script nonce="MMkbLO+kSJit64QvxlQu3DvJKft6SoBxmNMxm6Su0ITgjOEb" type="text/javascript">window.webpackPublicPath = 'https://www.paypalobjects.com/web/res/60e/985fe7f058037d2eeaf5925bdfe5a/js/client/';</script>
+  <link nonce="MMkbLO+kSJit64QvxlQu3DvJKft6SoBxmNMxm6Su0ITgjOEb" href="https://www.paypalobjects.com/web/res/60e/985fe7f058037d2eeaf5925bdfe5a/js/client/main.css" rel="stylesheet">
+
+  <style>
+    html {
+      height: 100%;
+    }
+
+    .vx_foreground-container {
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      margin: 0;
+      background: #ffffff;
+    }
+
+    .vx_mainContent {
+      padding-bottom: 0;
+    }
+
+    @media screen and (max-width: 768px) {
+      body {
+        background-color: #ffffff;
+        background-image: none;
+      }
+
+      .vx_foreground-container {
+        padding: 0px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="js_foreground" class="vx_foreground-container">
+    <div id="root"></div>
+  </div>
+  <script type="text/javascript" src="https://www.paypalobjects.com/pa/js/min/pa.js"></script>
+  <script type="application/json" id="server-data">
+      {"cdnHost":"www.paypalobjects.com","session":{"businessTypes":[],"loginUrl":"https:\u002F\u002Fwww.paypal.com\u002Fsignin?country.x=C2&locale.x=zh_C2&_sessionID=Skiprobot%2FNmcad1qf64%3D&Z1potre..."}
+    </script>
+  <script type="application/json" id="view-data">
+      {"renderView":{"elements":[{"name":"notification","component":"AlertMessage","attributes":{"name":"notification","subtext":"error.somethingWentWrong.debugId","dismissible":true,"type":"error"}},...}
+    </script>
+  <script type="application/json" id="server-context">
+      {"links":{"jsBaseUrl":"https://www.paypalobjects.com/web/res/60e/985fe7f058037d2eeaf5925bdfe5a/js","cssBaseUrl":"https://www.paypalobjects.com/web/res/60e/985fe7f058037d2eeaf5925bdfe5a/css","tem..."}
+    </script>
+  <script nonce="MMkbLO+kSJit64QvxlQu3DvJKft6SoBxmNMxm6Su0ITgjOEb" src="https://www.paypalobjects.com/web/res/60e/985fe7f058037d2eeaf5925bdfe5a/js/client/bundle.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://www.paypalobjects.com/isu/zoidMiniBrowser.js"></script>
+  <!-- 已去除人机验证脚本 -->
+  <!-- <script async src="/auth/createchallenge/49b9730de77a95dd/recaptchav3.js?_sessionID=I2YKlqkzM6Qk02f2bD5dbdNP8U7tFwef"></script> -->
+</body>
+
+</html>
