@@ -1,1 +1,2797 @@
-# https-zhangZYF5223.github.io-ppz-stor-
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-color-theme="dark">
+
+
+<head>
+	
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Quick Order | Cheap non-VoIP SMS Verifications | SMSPool</title>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#351dac">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Metadata -->
+<meta name="apple-mobile-web-app-status-bar" content="#351dac">
+<meta name="theme-color" content="#351dac" />
+<meta name="description" content="Buy cheap SMS verification service online from SMSPool using our virtual mobile numbers for SMS Verification worldwide. Sign up now for the highest quality SMS verifications for your accounts!">
+<meta property="og:type" content="website">
+<meta name="keywords" content="sms verification, sms verification service, disposable phone number, bypass phone verifications, temporary phone number, receive sms online, sms verification, free sms verification" />
+<meta property="og:image" content="https://www.smspool.net/assets/img/meta/quick-order.webp">
+<link rel="manifest" href="/manifest.json">
+<!-- /Metadata -->
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.smspool.net/purchase/quick_sms">
+<meta property="og:title" content="Quick Order | Cheap non-VoIP SMS Verifications | SMSPool">
+<meta property="og:description" content="Buy cheap SMS verification service online from SMSPool using our virtual mobile numbers for SMS Verification worldwide. Sign up now for the highest quality SMS verifications for your accounts!">
+<!-- /Open Graph / Facebook -->
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://www.smspool.net/purchase/quick_sms">
+<meta property="twitter:title" content="Quick Order | Cheap non-VoIP SMS Verifications | SMSPool">
+<meta property="twitter:description" content="Buy cheap SMS verification service online from SMSPool using our virtual mobile numbers for SMS Verification worldwide. Sign up now for the highest quality SMS verifications for your accounts!">
+<meta property="twitter:image" content="https://www.smspool.net/assets/img/meta/quick-order.webp">
+<meta property="twitter:site" content="@smspoolnet">
+<!-- /Twitter -->
+
+<link rel="canonical" href="https://www.smspool.net/purchase/quick_sms">
+
+
+	<script src="/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+	<script src="/assets/js/jquery/jquery.min.js"></script>
+
+<script src="/assets/js/vendor/internationalization/i18next.min.js"></script>
+<script src="/assets/js/vendor/internationalization/i18nextHttpBackend.min.js"></script>
+<script src="/assets/js/vendor/internationalization/i18nextBrowserLanguageDetector.min.js"></script>
+<script src="/assets/app/pages/language.js?v=0.1.6"></script>
+
+<!-- /core JS files -->
+
+<!-- Global stylesheets -->
+<link href="/assets/fonts/inter/inter.css" rel="stylesheet" type="text/css">
+<link href="/assets/icons/phosphor/styles.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/icons/icomoon/styles.min.css?v=0.1" rel="stylesheet" type="text/css">
+<link href="/assets/css/ltr/all.min.css" id="stylesheet" rel="stylesheet" type="text/css">
+<link href="/assets/css/global.css?v=0.1.1" id="stylesheet" rel="stylesheet" type="text/css">
+<!-- /global stylesheets -->
+
+<!-- Core JS files -->
+<script src="/assets/app/demo_configurator.js?v=0.3.7"></script>
+<script src="/assets/js/app.js"></script>
+
+<!-- Fathom - beautiful, simple website analytics -->
+<!--<script src="https://cdn.usefathom.com/script.js" data-site="GNNIFRLM" defer></script>-->
+<!-- / Fathom -->	<script src="/assets/js/vendor/forms/selects/select2.min.js"></script>
+	<script src="/assets/js/vendor/tables/datatables/datatables.min.js"></script>
+	<script src="/assets/js/vendor/notifications/noty.min.js"></script>
+	<noscript>
+		This page needs JavaScript activated to work.
+		<style>
+			div {
+				display: none;
+			}
+
+			.favourite {
+				/* Regular state styling */
+				transition: all 0.2s ease-in-out;
+			}
+
+			.favourite:hover {
+				/* Hover state styling */
+				transform: scale(0.9);
+				/* Makes the icon appear pressed by scaling it down */
+				cursor: pointer;
+				/* Changes the cursor to a pointer to indicate it's clickable */
+			}
+		</style>
+	</noscript>
+
+	<style>
+		.favourite {
+			/* Regular state styling */
+			transition: all 0.2s ease-in-out;
+		}
+
+		.favourite:hover {
+			/* Hover state styling */
+			transform: scale(0.9);
+			/* Makes the icon appear pressed by scaling it down */
+			cursor: pointer;
+			/* Changes the cursor to a pointer to indicate it's clickable */
+		}
+
+		.floating-order-button {
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+			background: #2196f3;
+			color: white;
+			border: none;
+			border-radius: 50%;
+			width: 50px;
+			height: 50px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			box-shadow: 0 2px 8px rgba(12, 131, 255, 0.18);
+			transition: all 0.2s ease;
+			z-index: 1000;
+			cursor: pointer;
+		}
+
+		.floating-order-button:hover {
+			background: #1769aa;
+			transform: scale(1.05);
+			box-shadow: 0 4px 12px rgba(12, 131, 255, 0.25);
+		}
+
+		.floating-order-button i {
+			font-size: 1.5em;
+		}
+
+		.scroll-to-top-button {
+			position: fixed;
+			bottom: 80px;
+			right: 20px;
+			background: #2196f3;
+			color: white;
+			border: none;
+			border-radius: 50%;
+			width: 50px;
+			height: 50px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			box-shadow: 0 2px 8px rgba(12, 131, 255, 0.18);
+			transition: all 0.2s ease;
+			z-index: 1000;
+			cursor: pointer;
+			opacity: 0;
+			visibility: hidden;
+		}
+
+		.scroll-to-top-button.visible {
+			opacity: 1;
+			visibility: visible;
+		}
+
+		.scroll-to-top-button:hover {
+			background: #1769aa;
+			transform: scale(1.05);
+			box-shadow: 0 4px 12px rgba(12, 131, 255, 0.25);
+		}
+
+		.scroll-to-top-button i {
+			font-size: 1.5em;
+		}
+
+		/* Mobile Navigation Tabs */
+		.mobile-nav-tabs {
+			display: none;
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			background: #fff;
+			box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+			z-index: 1000;
+			padding: 10px;
+		}
+
+		.mobile-nav-tabs .nav-tab {
+			flex: 1;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding: 12px;
+			background: #2196f3;
+			color: white;
+			border: none;
+			border-radius: 8px;
+			margin: 0 5px;
+			font-weight: 500;
+			transition: all 0.2s ease;
+		}
+
+		.mobile-nav-tabs .nav-tab i {
+			margin-right: 8px;
+			font-size: 1.2em;
+		}
+
+		.mobile-nav-tabs .nav-tab:hover {
+			background: #1769aa;
+		}
+
+		@media (max-width: 768px) {
+			.compact-country-card .purchase-btn {
+				margin-bottom: 5px !important;
+			}
+
+			.floating-order-button,
+			.scroll-to-top-button {
+				display: none;
+			}
+
+			.mobile-nav-tabs {
+				display: flex;
+				justify-content: space-between;
+			}
+
+			/* Mobile country results styles */
+			#results {
+				max-height: 320px;
+				/* Approximately 4 country cards (4 * 80px) */
+				overflow-y: auto;
+				-webkit-overflow-scrolling: touch;
+				/* Smooth scrolling on iOS */
+				padding-right: 5px;
+				/* Space for scrollbar */
+				margin-right: -5px;
+				/* Compensate for padding */
+			}
+
+			#results::-webkit-scrollbar {
+				width: 4px;
+			}
+
+			#results::-webkit-scrollbar-track {
+				background: rgba(0, 0, 0, 0.1);
+				border-radius: 2px;
+			}
+
+			#results::-webkit-scrollbar-thumb {
+				background: rgba(33, 150, 243, 0.5);
+				border-radius: 2px;
+			}
+
+			#results::-webkit-scrollbar-thumb:hover {
+				background: rgba(33, 150, 243, 0.7);
+			}
+
+			/* Adjust compact country card for mobile */
+			.compact-country-card {
+				margin-bottom: 8px;
+				min-height: 40px;
+			}
+
+			.compact-country-card .card-top {
+				margin-bottom: 0;
+			}
+
+			.compact-country-card .card-bottom {
+				margin-top: 0;
+			}
+
+			/* Ensure the search and sort controls stay visible */
+			#options>div:first-child,
+			#options>div:nth-child(2) {
+				position: sticky;
+				top: 0;
+				z-index: 1;
+				padding: 8px 0;
+			}
+		}
+
+		/* Desktop country results styles */
+		#results {
+			max-height: 400px;
+			/* Approximately 5 country cards (5 * 80px) */
+			overflow-y: auto;
+			padding-right: 5px;
+			margin-right: -5px;
+		}
+
+
+
+		#results::-webkit-scrollbar {
+			width: 6px;
+		}
+
+		#results::-webkit-scrollbar-track {
+			background: rgba(0, 0, 0, 0.1);
+			border-radius: 3px;
+		}
+
+		#results::-webkit-scrollbar-thumb {
+			background: rgba(33, 150, 243, 0.5);
+			border-radius: 3px;
+		}
+
+		#results::-webkit-scrollbar-thumb:hover {
+			background: rgba(33, 150, 243, 0.7);
+		}
+
+		.tooltip {
+			position: relative;
+			display: inline-block;
+			border-bottom: 1px dotted black;
+		}
+
+		.tooltip .tooltiptext {
+			visibility: hidden;
+			width: 120px;
+			background-color: black;
+			color: #fff;
+			text-align: center;
+			border-radius: 6px;
+			padding: 5px 0;
+
+			/* Position the tooltip */
+			position: absolute;
+			z-index: 1;
+		}
+
+		.tooltip:hover .tooltiptext {
+			visibility: visible;
+		}
+
+		#order-filter {
+			margin-bottom: 20px;
+			max-width: 350px;
+			border-radius: var(--border-radius, 0.375rem);
+			border: var(--border-width, 1px) var(--border-style, solid) var(--gray-300, #E5E7EB);
+			background: var(--gray-200, #F3F4F6);
+			color: var(--body-color, #1F2937);
+			padding: 8px 14px;
+			font-size: 1em;
+			box-shadow: none;
+			transition: border 0.15s;
+			margin-left: 20px;
+			margin-top: 20px;
+		}
+
+		#order-filter:focus {
+			outline: none;
+			border-color: var(--primary, #0c83ff);
+			background: var(--gray-100, #F9FAFB);
+			color: var(--body-color, #1F2937);
+		}
+
+		#table_pagination {
+			margin: 20px;
+		}
+
+		.pagination .page-link {
+			background: var(--gray-200, #F3F4F6);
+			color: var(--body-color, #1F2937);
+			border: 1px solid var(--gray-300, #E5E7EB);
+			border-radius: var(--border-radius-sm, 0.25rem);
+			margin: 0 2px;
+			font-size: 0.97em;
+			transition: background 0.15s, color 0.15s;
+		}
+
+		.pagination .page-item.active .page-link {
+			background: var(--primary, #0c83ff);
+			color: var(--white, #fff);
+			border-color: var(--primary, #0c83ff);
+		}
+
+		.pagination .page-link:focus {
+			box-shadow: none;
+			outline: none;
+		}
+
+		.pagination .page-item.disabled .page-link {
+			background: var(--gray-200, #F3F4F6);
+			color: var(--gray-500, #9CA3AF);
+			border-color: var(--gray-300, #E5E7EB);
+		}
+
+		@media (max-width: 991.98px) {
+			.table-responsive {
+				overflow-x: auto;
+			}
+
+			#order-table th,
+			#order-table td {
+				padding-left: 0.8rem !important;
+				/* Remove the huge left gap */
+				text-align: left;
+				font-size: 1.08em;
+			}
+
+			.pagination {
+				flex-wrap: wrap;
+			}
+
+			.btn-sm {
+				min-width: 36px;
+				min-height: 36px;
+				font-size: 1.1em;
+				margin-bottom: 4px;
+			}
+
+			.table-responsive .form-control,
+			.table-responsive .btn,
+			.table-responsive select {
+				font-size: 1em;
+			}
+		}
+
+		.order-actions-flex {
+			padding-right: 20px;
+			gap: 16px;
+			flex-wrap: wrap;
+		}
+
+		@media (max-width: 1800px) {
+			.order-action-buttons {
+				padding-left: 20px;
+				margin-top: -20px;
+			}
+		}
+
+		@media (max-width: 750px) {
+			.order-actions-row #order-filter {
+				margin-bottom: 0px !important;
+			}
+		}
+
+		@media (max-width: 1200px) {
+			.tip-row {
+				font-size: 0.8em;
+			}
+
+			.order-actions-flex {
+				flex-direction: column;
+				align-items: stretch;
+			}
+
+			.order-action-buttons {
+				flex-direction: column;
+				width: 100%;
+				margin-top: -20px !important;
+			}
+
+			.order-action-buttons button {
+				width: 100%;
+			}
+
+			.order-actions-row {
+				flex-direction: column !important;
+				align-items: stretch !important;
+				padding-left: 20px;
+			}
+
+			.order-actions-row #order-filter {
+				margin-bottom: 12px;
+				margin-left: 0 !important;
+				margin-right: 0 !important;
+				width: 100% !important;
+				max-width: 100% !important;
+			}
+
+			#order-filter {
+				width: 100% !important;
+				max-width: 100% !important;
+				margin-left: 0 !important;
+				margin-right: 0 !important;
+			}
+
+			.order-action-buttons {
+				display: flex;
+				flex-direction: column;
+				gap: 10px;
+				width: 100%;
+				padding-bottom: 20px;
+				padding-left: 0;
+				padding-right: 0;
+			}
+
+			.order-action-buttons button {
+				width: 100%;
+				font-size: 1.1em;
+				padding: 14px 0;
+				border-radius: 0.5em;
+				margin: 0 !important;
+			}
+
+			#order-table thead {
+				display: none;
+			}
+
+			#order-table,
+			#order-table tbody,
+			#order-table tr,
+			#order-table td {
+				border-radius: 0.7em;
+				box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+				margin-bottom: 0.8em;
+				padding: 0;
+			}
+
+			#order-table tr {
+				display: block;
+				margin-bottom: 1em;
+				border-radius: 0.7em;
+				box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+				padding: 0.7em 1em 0.7em 1em;
+			}
+
+			#order-table td {
+				display: block;
+				border: none;
+				padding: 0.2em 0;
+				margin: 0;
+				font-size: 1.08em;
+				text-align: left;
+			}
+
+			.order-phone {
+				font-weight: bold;
+				font-size: 1em;
+				margin-bottom: .2em;
+			}
+
+			.order-status {
+				font-weight: 500;
+				margin-bottom: 0.5em;
+				display: inline-block;
+				cursor: pointer;
+			}
+
+			.order-actions {
+				display: flex;
+				gap: 0.5em;
+				margin-top: 0.7em;
+			}
+
+			.order-actions button {
+				flex: 1 1 0;
+				border: 1px solid #bdbdbd;
+				border-radius: .4em;
+				font-weight: 600;
+				font-size: .85em !important;
+				transition: background .15s;
+			}
+
+			#table_pagination {
+				flex-direction: column !important;
+				align-items: stretch !important;
+				gap: 12px;
+			}
+
+			#table_pagination nav {
+				margin-top: 10px;
+			}
+
+			.order-phone-status-container {
+				position: relative;
+				min-height: 2.5em;
+			}
+
+			.order-country-top-right {
+				position: absolute;
+				right: 1em;
+				font-size: 1em;
+				color: #888;
+				font-weight: 500;
+				text-align: right;
+			}
+
+			.order-cost {
+				font-weight: 500;
+				margin-bottom: 0.5em;
+				display: inline-block;
+				cursor: pointer;
+			}
+
+			.order-service {
+				margin-bottom: 2em;
+				font-weight: 500;
+			}
+
+			.order-code {
+				margin-bottom: 0.3em;
+				position: absolute;
+				right: 1em;
+				display: inline-block;
+			}
+		}
+
+		.compact-country-card {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			border: 1px solid #353a40;
+			border-radius: 8px;
+			box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+			padding: 10px 12px 8px 12px;
+			/* reduced horizontal padding */
+			margin-bottom: 8px;
+			/* less space between cards */
+			min-height: 56px;
+			gap: 0;
+		}
+
+		.compact-country-card .card-top {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+			margin-bottom: 2px;
+		}
+
+		.compact-country-card .country-flag {
+			width: 24px;
+			height: 16px;
+			border-radius: 2px;
+			box-shadow: 0 1px 2px rgba(0, 0, 0, 0.10);
+			object-fit: cover;
+		}
+
+		.compact-country-card .country-name {
+			font-weight: 700;
+			font-size: 1.13em;
+			color: #fff;
+			letter-spacing: 0.5px;
+			margin-right: 6px;
+			white-space: nowrap;
+		}
+
+		.compact-country-card .country-full {
+			font-size: 0.98em;
+			color: #bdbdbd;
+			font-weight: 400;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+
+		.compact-country-card .card-bottom {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			gap: 10px;
+			margin-top: 2px;
+		}
+
+		.compact-country-card .stat {
+			display: flex;
+			align-items: center;
+			font-size: 0.99em;
+			color: #bdbdbd;
+			white-space: nowrap;
+			gap: 4px;
+		}
+
+		.compact-country-card .stat i {
+			font-size: 1.08em;
+			margin-right: 2px;
+			color: #8ca0b3;
+		}
+
+		.compact-country-card .price-stat {
+			font-weight: 600;
+			color: #e0e6ed;
+		}
+
+		.compact-country-card .purchase-btn {
+			min-width: 38px;
+			min-height: 34px;
+			padding: 0 12px;
+			font-size: 1.08em;
+			border-radius: 8px;
+			background: #2196f3;
+			color: #fff;
+			border: none;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			box-shadow: 0 2px 8px rgba(12, 131, 255, 0.10);
+			transition: box-shadow 0.15s, background 0.15s;
+			margin-bottom: 0;
+			margin-top: -2em;
+		}
+
+		.compact-country-card .purchase-btn:hover {
+			background: #1769aa;
+			box-shadow: 0 4px 16px rgba(12, 131, 255, 0.18);
+		}
+
+		.compact-country-card .purchase-btn i {
+			color: #fff;
+			font-size: 1.18em;
+		}
+
+		@media (max-width: 600px) {
+			.compact-country-card {
+				font-size: 1em;
+				padding: 8px 6px 6px 8px;
+				min-height: 44px;
+			}
+
+			.compact-country-card .card-bottom {
+				gap: 10px;
+			}
+
+			.compact-country-card .purchase-btn {
+				min-width: 38px;
+				min-height: 34px;
+				padding: 0 12px;
+				font-size: 1.08em;
+				margin-right: 5px;
+			}
+		}
+
+		@media (min-width: 768px) {
+			#mobileActionButtons {
+				display: block !important;
+				height: auto !important;
+				opacity: 1 !important;
+			}
+		}
+	</style>
+</head>
+
+<body>
+
+	<!-- Page content -->
+	<div class="page-content">
+
+		<div class="sidebar sidebar-dark sidebar-main sidebar-expand-lg">
+
+	<!-- Sidebar header -->
+	<div class="sidebar-section bg-black bg-opacity-10 border-bottom border-bottom-white border-opacity-10">
+		<div class="sidebar-logo d-flex justify-content-center align-items-center">
+			<a href="/main" class="d-inline-flex align-items-center py-2">
+				<img src="/assets/img/logo/favicon.svg" class="sidebar-logo-icon" alt="">
+				<img src="/assets/img/logo/smspool_text.svg?v=0.6" class="sidebar-resize-hide ms-2" height="14" alt="">
+			</a>
+
+			<div class="sidebar-resize-hide ms-auto">
+				<button type="button" class="btn btn-flat-white btn-icon btn-sm rounded-pill border-transparent sidebar-control sidebar-main-resize d-none d-lg-inline-flex">
+					<i class="ph-arrows-left-right"></i>
+				</button>
+
+				<button type="button" class="btn btn-flat-white btn-icon btn-sm rounded-pill border-transparent sidebar-mobile-main-toggle d-lg-none">
+					<i class="ph-x"></i>
+				</button>
+			</div>
+		</div>
+	</div>
+	<!-- /sidebar header -->
+
+
+	<!-- Sidebar content -->
+	<div class="sidebar-content">
+
+		<!-- Customers -->
+		<div class="sidebar-section sidebar-resize-hide mx-2">
+			<div class="text-body text-start lh-1 p-2 my-1 w-100" data-color-theme="dark">
+				<div class="hstack gap-2 flex-grow-1 my-1">
+					<div class="me-auto">
+						<div class="fs-sm text-white opacity-75 mb-1"><span data-i18n="cards.u">Username</span></div>
+						<div class="fw-semibold">291572906</div>
+					</div>
+					<div class="me-auto">
+						<div class="fs-sm text-white opacity-75 mb-1"><span data-i18n="cards.b">Balance</span></div>
+						<div class="fw-semibold">$<span id="balance">620.77</span></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /customers -->
+
+
+		<!-- Main navigation -->
+		<div class="sidebar-section">
+			<ul class="nav nav-sidebar" data-nav-type="accordion">
+				<!-- Main -->
+
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.main.qm">Quick Menu</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/purchase/quick_sms" class="nav-link active"><i class="icon-phone"></i> <span data-i18n="nav.main.qo">Quick Order</span></a></li>
+
+								<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.main.m">Main</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item">
+					<a href="/main" class="nav-link ">
+						<i class="icon-home4"></i>
+						<span data-i18n="nav.main.d">
+							Dashboard
+						</span>
+					</a>
+				</li>
+				<li class="nav-item"><a href="/purchase/sms" class="nav-link "><i class="icon-phone-plus2"></i> <span data-i18n="nav.main.o">Order</span></a></li>
+				<li class="nav-item"><a href="/purchase/rental" class="nav-link "><i class="icon-phone-plus"></i> <span data-i18n="nav.main.r">Rent</span></a></li>
+
+				<!-- /main -->
+
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.balance.b">Balance</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/balance/deposit" class="nav-link  "><i class="icon-credit-card2"></i> <span data-i18n="nav.balance.d">Deposit</span></a></li>
+
+									<li class="nav-item-header">
+						<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide">Business</div> <i class="ph-dots-three sidebar-resize-show"></i>
+					</li>
+					<li class="nav-item"><a href="/business/subaccounts" class="nav-link  "><i class="icon-people"></i> <span>Sub-accounts</span></a></li>
+				
+				<!-- Layout -->
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.contact.c">Contact</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/support/contact" class="nav-link "><i class="icon-lifebuoy"></i> <span data-i18n="nav.contact.s">Support</span></a></li>
+				<li class="nav-item"><a href="/ticket/list" class="nav-link "><i class="icon-envelop"></i> <span data-i18n="nav.contact.t">Tickets</span></a></li>
+
+				<!-- Layout -->
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.referral.c">Affiliates</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/my/affiliate" class="nav-link "><i class="icon-people"></i> <span data-i18n="nav.referral.s">My Referrals</span></a></li>
+
+				<!-- Layout -->
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide">Other services</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/esim/manage" class="nav-link "><i class="icon-server"></i> <span>Data-only eSIM</span></a></li>
+				<li class="nav-item"><a href="/to/proxy" class="nav-link "><i class="icon-satellite-dish2"></i> <span data-i18n="nav.main.p">Residential Proxy</span></a></li>
+				<li class="nav-item"><a href="/free-carrier-lookup" class="nav-link "><i class="icon-screen3"></i> <span data-i18n="nav.tools.lookup">Free Carrier Lookup</span></a></li>
+
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide">Tools</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/tool/ticketmaster" class="nav-link "><i class="icon-screen3"></i>Retrieve Ticketmaster Hits</span></a></li>
+
+				<!-- /layout -->
+
+				<li class="nav-item-header">
+					<div class="text-uppercase fs-sm lh-sm opacity-50 sidebar-resize-hide" data-i18n="nav.instructions.i">Instructions</div> <i class="ph-dots-three sidebar-resize-show"></i>
+				</li>
+				<li class="nav-item"><a href="/knowledgebase" class="nav-link"><i class="icon-book3"></i> <span data-i18n="nav.instructions.b">SMSPool Guides</span></a></li>
+				<li class="nav-item"><a href="/article/how-to-use-the-smspool-api-0dd6eadf4c" class="nav-link"><i class="icon-chip"></i> <span data-i18n="nav.instructions.a">SMSPool API</span></a></li>
+				<li class="nav-item"><a href="/article/why-should-i-get-my-sms-verifications-from-smspool" class="nav-link"><i class="icon-book2"></i> <span data-i18n="nav.instructions.o">How to order an SMS</span></a></li>
+				<li class="nav-item"><a href="/article/smspool-customer-support-guide-11c66935d20d" class="nav-link"><i class="icon-book2"></i> <span>Customer Support Guide</span></a></li>
+								
+				
+			</ul>
+		</div>
+		<!-- /main navigation -->
+
+	</div>
+	<!-- /sidebar content -->
+
+</div>
+<div class="content-wrapper">
+
+	<!-- Main navbar -->
+	<div class="navbar navbar-expand-lg navbar-static shadow">
+		<div class="container-fluid">
+			<div class="d-flex d-lg-none me-2">
+				<button type="button" class="navbar-toggler sidebar-mobile-main-toggle rounded-pill">
+					<i class="ph-list"></i>
+				</button>
+			</div>
+
+
+			<ul class="nav hstack gap-sm-2 flex-lg-1 order-2 order-lg-1 flex-row justify-content-end order-1 order-lg-2">
+
+				<li class="nav-item nav-item-dropdown-lg dropdown language-switch">
+					<a href="#" class="navbar-nav-link navbar-nav-link-icon rounded-pill" data-bs-toggle="dropdown">
+						<img src="/assets/img/lang/gb.svg" height="22" alt="">
+						<span class="ms-2 d-none d-lg-inline-block me-1">English</span>
+					</a>
+					<div class="dropdown-menu dropdown-menu-end">
+						<a href="#" class="dropdown-item en active">
+							<img src="/assets/img/lang/gb.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">English</span>
+						</a>
+						<a href="#" class="dropdown-item ru">
+							<img src="/assets/img/lang/ru.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">русский</span>
+						</a>
+						<a href="#" class="dropdown-item zh">
+							<img src="/assets/img/lang/cn.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">中国</span>
+						</a>
+						<a href="#" class="dropdown-item ar" name="layout-direction" value="rtl">
+							<img src="/assets/img/lang/sa.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">عربي</span>
+						</a>
+						<a href="#" class="dropdown-item vn">
+							<img src="/assets/img/lang/vn.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">Tiếng Việt</span>
+						</a>
+						<a href="#" class="dropdown-item es">
+							<img src="/assets/img/lang/es.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">Español</span>
+						</a>
+						<a href="#" class="dropdown-item nl">
+							<img src="/assets/img/lang/nl.svg?v=0.1" height="16" alt="">
+							<span class="ms-2">Nederlands</span>
+						</a>
+					</div>
+				</li>
+				<li class="nav-item nav-item-dropdown-lg dropdown">
+					<a class="navbar-nav-link navbar-nav-link-icon rounded-pill" data-bs-toggle="offcanvas" data-bs-target="#demo_config">
+						<i class="ph-gear"></i>
+					</a>
+				</li>
+
+				<li class="nav-item me-2">
+					<a href="#" class="navbar-nav-link navbar-nav-link-icon rounded-pill" data-bs-toggle="offcanvas" data-bs-target="#notifications">
+						<i class="ph-bell"></i>
+						<span id="notification_count" class="badge bg-yellow text-black position-absolute top-0 end-0 translate-middle-top zindex-1 rounded-pill mt-1 me-1">0</span>
+					</a>
+				</li>
+
+				<li class="nav-item nav-item-dropdown-lg dropdown">
+					<div class="align-items-center rounded-pill p-1">
+						<span class="d-lg-inline-block mx-lg-2">291572906</span>
+						</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /main navbar -->
+		<!-- Inner content -->
+		<div class="content-inner">
+
+			<!-- Page header -->
+			<div class="page-header">
+				<div class="page-header-content d-lg-flex">
+					<div class="d-flex">
+						<h4 class="page-title mb-0">
+							<span class="fw-normal">
+								Quick Order							</span>
+						</h4>
+					</div>
+				</div>
+			</div>
+			<!-- /page header -->
+
+
+			<!-- Content area -->
+			<div class="content pt-0">
+
+				<!-- /quick stats boxes -->
+				<!-- Dashboard content -->
+				<div class="row">
+					<div class="col-xl-4 mb-2">
+						<div class="card max-height">
+							<div class="card-header d-sm-flex align-items-sm-center py-sm-0">
+								<h5 class="py-sm-2 my-sm-1" data-i18n="order.qsms.o">Quick Order SMS</h5>
+							</div>
+
+							<div class="card-body">
+								<p data-i18n="order.qsms.d">Select a service you would like to order a SMS verification for, then our system will
+									automatically suggest the best options. <a href="#order-table">Press here to go down to your
+										active orders</a>
+								</p>
+
+								<p>Welcome to the brand new dashboard for your SMS orders, in case you have any suggestions please open a ticket <a href="https://www.smspool.net/ticket/create" target="_blank">here</a>. In case you prefer the legacy version, you can access it <a href="/purchase/legacy_quick_sms">here</a>.</p>
+							</div>
+							<hr style="margin-top: -0.05rem;">
+
+							<div class="card-body">
+								<fieldset>
+									<legend class="font-weight-semibold">
+										<i class="icon-file-text2 me-2"></i>
+										Configure order
+										<a href="#" class="float-end text-body" data-bs-toggle="collapse" data-bs-target="#demo1">
+											<i class="icon-circle-down2"></i>
+										</a>
+									</legend>
+									<div class="collapse show" id="demo1">
+										<div class="mb-3">
+											<label style="display: block;" class="mb-2"><span data-i18n="order.sms.service">Service</span>
+												<a class="float-end text-body pl-2" data-bs-popup="tooltip" title="" data-bs-original-title="Pick the service/site that you send the SMS from, make sure it matches the site. If it is not listed, select: any">
+													<i class="icon-question3"></i>
+												</a>
+												<a class="float-end text-body pl-2" data-bs-popup="tooltip" title="" data-bs-original-title="Set this service as favourite">
+													<div class="float-end text-body me-2">
+														<i class="favourite icon-star-empty3 pr-2"></i>
+													</div>
+												</a>
+											</label>
+											<select id="service" name="service" data-bs-placeholder="Select your service" class="form-control form-control-select2" data-bs-fouc>
+											</select>
+										</div>
+										<div class="mb-3">
+											<label style="display: block;" class="mb-2"><span data-i18n="order.sms.pricing_option.tag">Pricing option</span>
+												<a class="float-end text-body pl-2" data-bs-popup="tooltip" title="" data-bs-original-title="Choose between different ways to pick your phone number">
+													<i class="icon-question3"></i>
+												</a>
+											</label>
+											<select id="pricing_option" name="pricing_option" data-placeholder="Select your pricing option" class="form-control" data-fouc>
+												<option value="0" ><span data-i18n="order.sms.pricing_option.highest_success">Select highest
+														success rate</span></option>
+												<option value="1" ><span data-i18n="order.sms.pricing_option.cheapest">Select
+														cheapest</span></option>
+											</select>
+										</div>
+
+										<label style="display: block;" class="mb-2" data-i18n="order.qsms.search_country">Search country
+										</label>
+
+										<div id="options">
+											<div id="results" class="mt-3">
+
+											</div>
+										</div>
+									</div>
+								</fieldset>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-xl-8 mb-2">
+						<div id="message">
+													</div>
+						<div class="card max-height">
+							<div class="card-header d-sm-flex align-items-sm-center py-sm-0">
+								<h5 class="py-sm-2 my-sm-1" data-i18n="order.pending.title" id="pending_sms">Pending SMS
+								</h5>
+
+								<div class="d-inline-flex ms-auto">
+									<form method="POST" class="mb-3 mt-2">
+																					<button type="submit" name="update_tips_setting"
+												class="btn btn-danger ms-2">Disable order tips</button>
+										
+										<button type="button" class="btn btn-light ms-2" data-bs-target="#usage_modal" data-bs-toggle="modal">Useful tips<i class="icon-question3 ms-2"></i></button>
+									</form>
+								</div>
+							</div>
+
+							<div class="card-body" data-i18n="order.pending.desc">
+								A list of all your pending SMS, need more instructions on how to use it? Press on
+								<strong>Useful tips</strong>.
+							</div>
+							<div class="table-responsive">
+								<div class="d-flex justify-content-between align-items-center mb-1 order-actions-row order-actions-flex">
+									<input type="text" id="order-filter" class="form-control me-3" placeholder="Filter">
+
+									<button class="btn btn-secondary d-md-none mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#mobileActionButtons" aria-expanded="false" aria-controls="mobileActionButtons">
+										Show Order Actions
+									</button>
+
+									<!-- Collapsible action buttons -->
+									<div class="collapse d-md-block" id="mobileActionButtons">
+										<form method="POST" class="order-action-buttons">
+											<button type="submit" name="cancel_all" class="btn btn-secondary" onclick="return confirm('Are you sure you would like to cancel all your active orders?')" data-i18n="order.pending.cancel_all">Cancel all your orders</button>
+											<button type="submit" name="archive_all" class="btn btn-secondary" onclick="return confirm('Are you sure you would like to archive all your active orders?')" data-i18n="order.pending.archive_all">Archive all active orders</button>
+											<button type="submit" name="clear_previous" class="btn btn-warning" onclick="return confirm('By clearing your orders cache you will retrieve phone numbers that were allocated to you previously (but did not receive a code), are you sure?')">Clear order cache</button>
+										</form>
+									</div>
+								</div>
+								<table class="table" id="order-table">
+									<thead>
+										<tr>
+											<th>#</th>
+											<th>Phonenumber</th>
+											<th>Code</th>
+											<th>Service</th>
+											<th>Country</th>
+											<th>Status</th>
+											<th>Cost</th>
+											<th>Actions</th>
+										</tr>
+									</thead>
+									<tbody id="orders">
+									</tbody>
+								</table>
+								<div class="d-flex justify-content-between align-items-center mt-3" id="table_pagination">
+									<div class="d-flex align-items-center">
+										<span class="me-2">Show:</span>
+										<select class="form-select form-select-sm" id="pageSize" style="width: auto;">
+											<option value="10">10</option>
+											<option value="25">25</option>
+											<option value="50">50</option>
+											<option value="100">100</option>
+										</select>
+										<span class="ms-2" id="tableInfo">Showing 0 to 0 of 0 entries</span>
+									</div>
+									<nav aria-label="Table navigation">
+										<ul class="pagination pagination-sm mb-0" id="pagination">
+										</ul>
+									</nav>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /dashboard content -->
+
+		</div>
+		<!-- /content area -->
+		<div class="navbar navbar-sm navbar-footer border-top">
+	<div class="container-fluid">
+		<span>&copy; 2025 SMSPool</span>
+
+		<ul class="nav">
+			<li class="nav-item">
+				<a href="/privacy-policy" class="navbar-nav-link navbar-nav-link-icon rounded" target="_blank">
+					<div class="d-flex align-items-center mx-md-1">
+						<i class="ph-file-lock"></i>
+						<span class="d-none d-md-inline-block ms-2"><span>Privacy Policy</span></span>
+					</div>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="/contact" class="navbar-nav-link navbar-nav-link-icon rounded" target="_blank">
+					<div class="d-flex align-items-center mx-md-1">
+						<i class="ph-lifebuoy"></i>
+						<span class="d-none d-md-inline-block ms-2"><span data-i18n="contact.s">Support</span></span>
+					</div>
+				</a>
+			</li>
+			<li class="nav-item ms-md-1">
+				<a href="/knowledgebase" class="navbar-nav-link navbar-nav-link-icon rounded" target="_blank">
+					<div class="d-flex align-items-center mx-md-1">
+						<i class="ph-file-text"></i>
+						<span class="d-none d-md-inline-block ms-2"><span data-i18n="nav.instructions.b">Blog</span></span>
+					</div>
+				</a>
+			</li>
+			<li class="nav-item ms-md-1">
+				<a href="/news" class="navbar-nav-link navbar-nav-link-icon rounded" target="_blank">
+					<div class="d-flex align-items-center mx-md-1">
+						<i class="ph-file-text"></i>
+						<span class="d-none d-md-inline-block ms-2"><span>News</span></span>
+					</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>	</div>
+	<!-- /inner content -->
+
+	</div>
+	<!-- /main content -->
+
+	</div>
+	<!-- /page content -->
+
+	<div id="usage_modal" class="modal fade">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Usage</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+				</div>
+
+				<div class="card card-body">
+					<h5 class="fw-semibold py-1 mb-3">Getting started</h5>
+					<div class="accordion">
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question1" aria-expanded="false">
+									<i class="ph-question me-2"></i>
+									Do I pay for SMS verifications that did not receive a code?
+								</button>
+							</div>
+
+							<div id="question1" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">No, you do not pay for SMS verifications that did not receive a
+										code.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question2">
+									<i class="ph-question me-2"></i>
+									Where can I find my SMS history?
+								</button>
+							</div>
+
+							<div id="question2" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">SMSes that have been deleted can be found back in your <a href="/my/history">history</a>.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question3">
+									<i class="ph-question me-2"></i>
+									How can I see the full SMS code?
+								</button>
+							</div>
+
+							<div id="question3" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">Press on the code you have received to see the full code.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question4">
+									<i class="ph-question me-2"></i>
+									Why am I not receiving a SMS code?
+								</button>
+							</div>
+
+							<div id="question4" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">Not receiving a SMS code can have many factors, for this reason
+										we've written a guide in order to help you. Read the guide <a href="https://www.smspool.net/article/tips-for-getting-your-sms-verifications">here</a>
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question5">
+									<i class="ph-question me-2"></i>
+									How can I use a number twice?
+								</button>
+							</div>
+
+							<div id="question5" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">In case you need another code, Press resend after receiving the
+										initial code, if you cannot see the resend button make sure to press the + to
+										expand the order. Resends are usually free, and if not it will warn you.
+
+										You can read our more detailed guide <a href="https://www.smspool.net/article/how-to-reuse-a-phone-number-on-smspool">here</a></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="accordion-item">
+							<div class="accordion-header">
+								<button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#question6">
+									<i class="ph-question me-2"></i>
+									How can I get a number refunded?
+								</button>
+							</div>
+
+							<div id="question6" class="accordion-collapse collapse">
+								<div class="accordion-body">
+									<p class="mb-3">Phone numbers are refunded automatically after expiration, in case
+										you wish to refund it yourself; feel free to press the "Refund" button in the
+										orders tab.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="modal-footer">
+					<button type="button" class="btn btn-link" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Notifications -->
+<div class="offcanvas offcanvas-end" tabindex="-1" id="notifications">
+	<div class="offcanvas-header py-0">
+		<h5 class="offcanvas-title py-3">Notifications</h5>
+		<button type="button" class="btn btn-light btn-sm btn-icon border-transparent rounded-pill" data-bs-dismiss="offcanvas">
+			<i class="ph-x"></i>
+		</button>
+	</div>
+
+	<div class="offcanvas-body p-0">
+
+		<div class="bg-light fw-medium py-2 px-3">New notifications - <a href="#" onclick="close_all_notifications()">Mark all as read</a></div>
+		<div class="p-3" id="active_notifications">
+
+		</div>
+	</div>
+</div>
+<!-- /notifications -->
+
+
+<!-- Demo config -->
+<div class="offcanvas offcanvas-end" tabindex="-1" id="demo_config">
+	<div class="offcanvas-header border-bottom py-0">
+		<h5 class="offcanvas-title py-3">Preferences</h5>
+		<button type="button" class="btn btn-light btn-sm btn-icon border-transparent rounded-pill" data-bs-dismiss="offcanvas">
+			<i class="ph-x"></i>
+		</button>
+	</div>
+
+			<div style="padding: var(--offcanvas-padding-y) var(--offcanvas-padding-x); overflow-y: auto;">
+			<div class="fw-semibold mb-2">Your account</div>
+
+			<div class="list-group mb-3">
+				<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-2">
+					<a href="/my/history">
+						<div class="d-flex flex-fill my-1">
+							<div class="form-check-label d-flex me-2">
+								<i class="ph-shopping-cart mt-2 ph-lg me-3"></i>
+								<div>
+									<span class="fw-bold">Order history</span>
+									<div class="fs-sm text-muted">View your previous orders</div>
+								</div>
+							</div>
+						</div>
+					</a>
+				</label>
+
+									<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-2">
+						<a href="/my/settings">
+							<div class="d-flex flex-fill my-1">
+								<div class="form-check-label d-flex me-2">
+									<i class="ph-gear mt-2 ph-lg me-3"></i>
+									<div>
+										<span class="fw-bold">Account settings</span>
+										<div class="fs-sm text-muted">View your account settings</div>
+									</div>
+								</div>
+							</div>
+						</a>
+					</label>
+				
+				<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-2">
+					<a href="/logout">
+						<div class="d-flex flex-fill my-1">
+							<div class="form-check-label d-flex me-2">
+								<i class="ph-sign-out mt-2 ph-lg me-3"></i>
+								<div>
+									<span class="fw-bold">Logout</span>
+									<div class="fs-sm text-muted">Log out of your account</div>
+								</div>
+							</div>
+						</div>
+					</a>
+				</label>
+			</div>
+		</div>
+	
+	<div class="offcanvas-body">
+		<div class="fw-semibold mb-2">Color mode</div>
+		<div class="list-group mb-3">
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-2">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="ph-sun mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Light theme</span>
+							<div class="fs-sm text-muted">Set light theme or reset to default</div>
+						</div>
+					</div>
+					<input type="radio" class="form-check-input cursor-pointer ms-auto" name="main-theme" value="light">
+				</div>
+			</label>
+
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-2">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="ph-moon mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Dark theme</span>
+							<div class="fs-sm text-muted">Switch to dark theme</div>
+						</div>
+					</div>
+					<input type="radio" class="form-check-input cursor-pointer ms-auto" name="main-theme" value="dark" checked>
+				</div>
+			</label>
+
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-0">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="ph-translate mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Auto theme</span>
+							<div class="fs-sm text-muted">Set theme based on system mode</div>
+						</div>
+					</div>
+					<input type="radio" class="form-check-input cursor-pointer ms-auto" name="main-theme" value="auto">
+				</div>
+			</label>
+		</div>
+
+		<!--
+		<div class="fw-semibold mb-2">Direction</div>
+		<div class="list-group mb-3">
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-0">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="ph-translate mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">RTL direction</span>
+							<div class="text-muted">Toggle between LTR and RTL</div>
+						</div>
+					</div>
+					<input type="checkbox" name="layout-direction" value="rtl" class="form-check-input cursor-pointer m-0 ms-auto">
+				</div>
+			</label>
+		</div>
+		--->
+
+		<div class="fw-semibold mb-2">Audio mode</div>
+		<div class="list-group mb-3">
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-0">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="icon-volume-high mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Audio</span>
+							<div class="text-muted">Toggle the audio on and off</div>
+						</div>
+					</div>
+					<input type="checkbox" name="audio" value="enabled" class="form-check-input cursor-pointer m-0 ms-auto">
+				</div>
+			</label>
+		</div>
+		<div class="fw-semibold mb-2">Prompts</div>
+		<div class="list-group mb-3">
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-0">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="icon-reload-alt mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Resend</span>
+							<div class="text-muted">Disable resend prompt</div>
+						</div>
+					</div>
+					<input type="checkbox" name="resend" value="disabled" class="form-check-input cursor-pointer m-0 ms-auto">
+				</div>
+			</label>
+		</div>
+		<div class="list-group mb-3">
+			<label class="list-group-item list-group-item-action form-check border-width-1 rounded mb-0">
+				<div class="d-flex flex-fill my-1">
+					<div class="form-check-label d-flex me-2">
+						<i class="icon-reload-alt mt-2 ph-lg me-3"></i>
+						<div>
+							<span class="fw-bold">Refund</span>
+							<div class="text-muted">Disable refund prompt</div>
+						</div>
+					</div>
+					<input type="checkbox" name="refund_prompt" value="disabled" class="form-check-input cursor-pointer m-0 ms-auto">
+				</div>
+			</label>
+		</div>
+	</div>
+	<!-- /demo config -->
+
+	<!-- Basic modal -->
+	<div id="full_sms" class="modal fade" tabindex="-1">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<h6 class="font-weight-semibold">Your full code</h6>
+					<p id="full_code"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /basic modal -->
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'953a6d49be5a5c88',t:'MTc1MDU4MTQ4MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+<script>
+    if ($("#active_notifications")) {
+        var apikey = "B7IEatmxBLsO3SZKj0ljkrLqAWaI8iuD";
+        var endpoint_url = "https://api.smspool.net";
+
+        if (apikey) {
+
+            function close_notification(identifier) {
+                console.log(identifier);
+
+                $.ajax({
+                    url: endpoint_url + "/notifications/read",
+                    type: "POST",
+                    data: {
+                        key: apikey,
+                        identifier: identifier
+                    },
+                    success: function(data) {
+                        if (data.success) {
+                            $("#notification_count").html(parseInt($("#notification_count").html()) - 1);
+                            $("#" + identifier).remove();
+                        }
+                    }
+                });
+            }
+
+            function close_all_notifications() {
+                $.ajax({
+                    url: endpoint_url + "/notifications/read_all",
+                    type: "POST",
+                    data: {
+                        key: apikey
+                    },
+                    success: function(data) {
+                        if (data.success) {
+                            $("#notification_count").html(0);
+                            $("#active_notifications").html(`
+                                <div class="d-flex align-items-start mb-3">
+                                    <div class="flex-fill">
+                                        You have no new notifications.
+                                    </div>
+                                </div>`);
+                        }
+                    }
+                });
+            }
+
+            function checkNotifications() {
+                $.ajax({
+                    url: endpoint_url + "/notifications/retrieve",
+                    type: "POST",
+                    data: {
+                        key: apikey
+                    },
+                    success: function(data) {
+                        var length = data.length;
+                        $("#active_notifications").html('');
+
+                        if (length > 0) {
+                            $("#notification_count").html(length);
+                            for (var i = 0; i < length; i++) {
+                                var notification = data[i];
+
+                                if (notification.notification_id) {
+                                    var mark_as_read = `<p><button class="btn btn-sm btn-primary mt-2" onclick="close_notification('${notification.notification_id}')">Mark as read</button></p>`;
+                                } else {
+                                    var mark_as_read = "";
+                                }
+
+                                $("#active_notifications").append(`
+                              <div class="d-flex align-items-start mb-3" id="${notification.notification_id}">
+								<div class="flex-fill">
+									 <p class="fw-semibold">${notification.title}</p>
+									 ${notification.text}
+                                     ${mark_as_read}
+									 <div class="fs-sm text-muted mt-1">${notification.timestamp}</div>
+    								</div>
+						      </div>
+                            `);
+                            }
+                        } else {
+                            $("#active_notifications").html(`
+                            <div class="d-flex align-items-start mb-3">
+                                <div class="flex-fill">
+                                    You have no new notifications.
+                                </div>
+                            </div>`);
+                        }
+                    }
+                });
+            }
+
+            checkNotifications();
+
+            setInterval(function() {
+                checkNotifications();
+            }, 10000);
+        }
+    }
+    
+    
+</script>
+
+<script>
+	var apikey = "B7IEatmxBLsO3SZKj0ljkrLqAWaI8iuD";
+	var audio = new Audio("/assets/sound/sms.mp3");
+	let last_used_service = getCookie("last_used_service");
+	var endpoint_url = "https://api.smspool.net";
+	var iterations = 0;
+	var purchaseButton = null;
+	var lastPollTime = 0;
+	var pollInterval = 1000; // Fixed 1 second interval
+	var lastResponse = null;
+	let currentPage = 1;
+	let pageSize = 10;
+	let filterValue = '';
+	let allOrders = [];
+	var tipsArray = [];
+
+	function fetchTips() {
+		$.ajax({
+			url: endpoint_url + '/service/tip',
+			type: 'GET',
+			async: false, // Make the request synchronous
+			success: function(data) {
+				tipsArray = data; // Assume 'data.tips' contains the array of tips
+			},
+			error: function(xhr, status, error) {
+				console.error('Failed to fetch tips:', error);
+			}
+		});
+	}
+
+	fetchTips();
+
+	Noty.overrideDefaults({
+		theme: 'limitless',
+		layout: 'topRight',
+		type: 'alert',
+		timeout: 2500
+	});
+
+	function makeId(length) {
+		let result = '';
+		const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+		const charactersLength = characters.length;
+		let counter = 0;
+		while (counter < length) {
+			result += characters.charAt(Math.floor(Math.random() * charactersLength));
+			counter += 1;
+		}
+		return result;
+	}
+
+	function getCookie(cname) {
+		let name = cname + "=";
+		let decodedCookie = decodeURIComponent(document.cookie);
+		let ca = decodedCookie.split(';');
+		for (let i = 0; i < ca.length; i++) {
+			let c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+
+	retrieveServices();
+
+	$(function() {
+		$('body').on('submit', '#purchase_sms', function(e) {
+			e.preventDefault(); // avoid to execute the actual submit of the form.
+
+			/*
+			var generateId = makeId(10);
+
+			$("#message").prepend(`
+			<div id="${generateId}">
+				<div class="alert alert-info alert-dismissible fade show">
+					<button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+					Your order is being processed
+			</div>
+			</div>`);
+			*/
+
+			var notification = new Noty({
+				text: 'Your order is being processed',
+				type: 'info',
+				timeout: false
+			}).show();
+
+			var form = $(this);
+			var request = form.serializeArray();
+			var pricing_option = $("#pricing_option").val();
+
+			request.push({
+				name: "key",
+				value: apikey
+			});
+			request.push({
+				name: "pricing_option",
+				value: pricing_option
+			});
+
+			$.ajax({
+				type: "POST",
+				url: endpoint_url + "/purchase/sms",
+				data: request, // serializes the form's elements.
+				complete: function(data) {
+					var data = data.responseJSON;
+					notification.close();
+					new Noty({
+						text: data.message,
+						type: data.success ? 'success' : 'error'
+					}).show();
+					if (data.success) {
+						var orderTable = document.getElementById('order-table');
+						if (orderTable) {
+							orderTable.scrollIntoView({
+								behavior: 'smooth',
+								block: 'start'
+							});
+						}
+					}
+				}
+			});
+
+		});
+	});
+
+	function reactivateOrder(object, orderid, apikey) {
+		var submit = 0;
+
+		if (confirm('By re-activating this number you will be charged the full amount of the order, this can NOT be refunded even if you do not receive a code. Are you sure you would like to continue?')) {
+			submit = 1;
+		}
+
+		if (submit) {
+			$.ajax({
+				url: endpoint_url + "/sms/reactivate",
+				type: "POST",
+				data: {
+					key: apikey,
+					orderid: orderid
+				},
+				success: function(d) {
+					new Noty({
+						text: d.message,
+						type: d.success ? 'success' : 'error'
+					}).show();
+				}
+			});
+		}
+	}
+
+	// retrieve all valid pools based on service
+	function RetrieveCountries(s) {
+		$('#options').html('<div class="mb-3"><input type="text" class="form-control" id="search" placeholder="Search Country"></div><div class="btn-group" role="group"><button id="sortButton" class="btn btn-secondary mt-1">Sort by Lowest Price</button><button id="toggleNoStockButton" class="btn btn-secondary mt-1">Show countries without stock</button></div><div id="results" class="mt-3">');
+
+		var currentSort = 'high'; // Track current sort order
+		var showNoStock = false; // Hide no stock by default
+		var originalData = [];
+
+		$.getJSON(endpoint_url + `/request/success_rate?service=${s}`, function(data) {
+			if (s) {
+				originalData = data;
+				// Initial rendering: hide no stock
+				renderForms(data.filter(function(item) {
+					return item.stock > 0;
+				}), s);
+			}
+
+			$("#search").off('keyup').on('keyup', function() {
+				var filter = $(this).val();
+				var filtered = (showNoStock ? originalData : originalData.filter(function(item) {
+					return item.stock > 0;
+				}));
+				filtered = filtered.filter(function(item) {
+					return item.name.toLowerCase().includes(filter.toLowerCase()) || item.short_name.toLowerCase().includes(filter.toLowerCase());
+				});
+				$('#results').empty();
+				renderForms(filtered, s);
+			});
+
+			// Sort button
+			$('#sortButton').off('click').on('click', function() {
+				var filtered = (showNoStock ? originalData : originalData.filter(function(item) {
+					return item.stock > 0;
+				}));
+				if (currentSort === 'high') {
+					filtered.sort(function(a, b) {
+						return a.low_price - b.low_price;
+					});
+					$(this).text("Sort by Highest Price");
+					currentSort = 'low';
+				} else {
+					filtered.sort(function(a, b) {
+						return b.low_price - a.low_price;
+					});
+					$(this).text("Sort by Lowest Price");
+					currentSort = 'high';
+				}
+				$('#results').empty();
+				renderForms(filtered, s);
+			});
+
+			// Toggle no stock button
+			$('#toggleNoStockButton').off('click').on('click', function() {
+				showNoStock = !showNoStock;
+				var filtered = showNoStock ? originalData : originalData.filter(function(item) {
+					return item.stock > 0;
+				});
+				$('#results').empty();
+				renderForms(filtered, s);
+				$(this).text(showNoStock ? 'Hide countries without stock' : 'Show countries without stock');
+			});
+		});
+	}
+
+	function renderForms(data, s) {
+		var baseUrl = "/assets/img/lang/";
+		$.each(data, function(key, val) {
+			var image = baseUrl + val.short_name.toLowerCase() + ".svg";
+			$('#results').append(`
+				<form method="POST" id="purchase_sms" class="mb-2">
+					<input type="hidden" value="${s}" name="service">
+					<input type="hidden" value="${val.country_id}" name="country">
+					<p style='display:none;'>${val.name}</p>
+					<div class="compact-country-card">
+						<div class="card-top">
+							<img src="${image}" class="country-flag"/>
+							<span class="country-name">${val.short_name}</span>
+							<span class="country-full">${val.name}</span>
+						</div>
+						<div class="card-bottom">
+							<span class="stat"><i class="ph-trend-up"></i> ${val.success_rate}%</span>
+							<span class="stat"><i class="ph-package"></i> ${val.stock}</span>
+							<span class="stat price-stat"><i class="ph-currency-dollar"></i> ${val.low_price}-${val.price}</span>
+							<button name="purchase" class="btn btn-primary purchase-btn" title="Purchase">
+								<i class="icon-paperplane"></i>
+							</button>
+						</div>
+					</div>
+				</form>
+			`);
+		});
+	}
+
+	$('.favourite').on('click', function() {
+		var $icon = $(this);
+
+		// Navigate to the nearest select element
+		var select2Element = $(this).closest('label').next('.select2-hidden-accessible');
+
+		// Retrieve the ID and value
+		var type = select2Element.attr('id');
+		var favouriteId = select2Element.val();
+		var select2Text = select2Element.find('option:selected').text();
+
+		switch (type) {
+			case "country":
+				var type = 1;
+				break;
+			case "service":
+				var type = 2;
+				break;
+		}
+
+		var data = {
+			key: apikey,
+			type: type,
+			favourite_id: favouriteId
+		};
+
+		// Send the request using jQuery's post method
+		$.post(endpoint_url + '/update/favourite', data, function(response) {
+			if (response.success) {
+				$icon.removeClass('icon-star-empty3').addClass('icon-star-full2');
+
+				new Noty({
+					text: `Successfully added ${select2Text} to your favourites.`,
+					type: 'success'
+				}).show();
+			} else {
+				$icon.removeClass('icon-star-full2').addClass('icon-star-empty3');
+
+				new Noty({
+					text: `Deleted ${select2Text} from your favourites.`,
+					type: 'error'
+				}).show();
+			}
+
+			if (type == 2) {
+				last_used_service = favouriteId;
+			}
+
+			retrieveServices();
+		}).fail(function(xhr, status, error) {
+
+		});
+
+	});
+
+
+	//copy paste
+	$("body").on("click", "#copy", function() {
+		var e = $("<input>"),
+			o = $(this).attr("rel");
+		$("body").append(e), e.val(o).select(), document.execCommand("copy"), e.remove()
+
+		new Noty({
+			text: o + " has been copied to clipboard",
+			type: 'success'
+		}).show();
+	});
+
+	function retrieveServices() {
+		$("#service").html(`<option selected disabled>Select a service</option>`);
+
+		$.ajax({
+			url: endpoint_url + "/service/retrieve_all",
+			type: "POST",
+			data: {
+				key: apikey
+			},
+			dataType: 'json',
+			success: function(data) {
+				$("#service").empty();
+
+				var favourite_group = 0;
+				var other_services = 0;
+
+				$.each(data, function(key, val) {
+					var selected = (last_used_service == val.ID) ? "selected" : "";
+
+					if (last_used_service == val.ID) {
+						RetrieveCountries(val.ID);
+					}
+
+					if (val.favourite) {
+						if (!favourite_group) {
+							$("#service").append(`<optgroup id="FavouriteServices" label="Favourites"></optgroup>`);
+							favourite_group = 1;
+						}
+						$(`#FavouriteServices`).append(`<option value="${val.ID}" ${selected}>${val.name}</option>`);
+					} else {
+						if (!other_services) {
+							$("#service").append(`<optgroup id="OtherServices" label="Services"></optgroup>`);
+							other_services = 1;
+						}
+						$(`#OtherServices`).append(`<option value="${val.ID}" ${selected}>${val.name}</option>`);
+					}
+				});
+
+				if (!last_used_service) {
+					$("#service").prepend(`<option selected="true" disabled="disabled">Please select a service</option>`);
+				}
+
+				$('#service').select2({
+					theme: 'bootstrap4',
+					matcher: function(params, data) {
+						if (data.id === "817") { // option value of "Other", always appears in results
+							return data;
+						} else {
+							return $.fn.select2.defaults.defaults.matcher.apply(this, arguments);
+						}
+					},
+					dropdownParent: $('#service').parent(),
+					scrollAfterSelect: false
+				});
+			},
+			error: function(xhr, status, error) {
+				const data = xhr.responseJSON;
+
+				new Noty({
+					text: data.message,
+					type: data.success ? 'success' : 'error'
+				}).show();
+			}
+		});
+
+	}
+
+
+	function retrieveStock(c, s, p) {
+		$.getJSON(endpoint_url + `/sms/stock?country=${c}&service=${s}`, function(data) {
+			if (data.amount > 1) {
+				$(`#stock_${c}`).val(data.amount);
+			} else {
+				$(`#stock_${c}`).hide();
+			}
+		});
+	}
+
+	$("#service").change(function() {
+		var s = $("#service").val();
+
+		// Check if the selected option is within the 'Favorites' optgroup
+		var isFavorite = $(this).find('option:selected').parent('optgroup[label="Favourites"]').length > 0;
+
+		// Find the star icon and update it
+		var $starIcon = $(this).closest('.mb-3').find('.favourite');
+
+		if (isFavorite) {
+			// Change to full star icon
+			$starIcon.removeClass('icon-star-empty3').addClass('icon-star-full2');
+		} else {
+			// Change back to empty star icon
+			$starIcon.removeClass('icon-star-full2').addClass('icon-star-empty3');
+		}
+
+		RetrieveCountries(s);
+	});
+
+	function retrieveBalance(a) {
+		$.ajax({
+			url: endpoint_url + "/request/balance",
+			type: "POST",
+			data: {
+				key: a
+			},
+			dataType: "json",
+			success: function(d) {
+				$("#balance").html(d.balance);
+				$("#stat_balance").html(d.balance);
+				setTimeout(function() {
+					retrieveBalance(a);
+				}, 30000);
+			},
+			error: function(jqXHR, textStatus, errorThrown) {
+				setTimeout(function() {
+					retrieveBalance(a);
+				}, 30000);
+			}
+		});
+	}
+
+	function refundOrder(object, orderid, apikey) {
+		var refund_prompt = localStorage.getItem("refund_prompt") ?? null;
+		var refund = 0;
+
+		if (!refund_prompt) {
+			if (confirm("Are you sure you would like to refund/archive this order?")) {
+				refund = 1;
+			} else {
+				refund = 0;
+			}
+		} else {
+			refund = 1;
+		}
+
+		if (refund) {
+			$.ajax({
+				url: endpoint_url + "/sms/cancel",
+				type: "POST",
+				data: {
+					key: apikey,
+					orderid: orderid
+				},
+				success: function(data) {
+					var color = data.success == 1 ? "alert-success" : "alert-danger";
+
+					if (data.success == 1) {
+						$(object).closest('tr').hide();
+					}
+
+					new Noty({
+						text: data.message,
+						type: data.success ? 'success' : 'error'
+					}).show();
+
+					retrieveBalance(apikey);
+				},
+				error: function(xhr, status, error) {
+					const data = xhr.responseJSON;
+
+					new Noty({
+						text: data.message,
+						type: data.success ? 'success' : 'error'
+					}).show();
+				}
+			});
+		}
+	}
+
+	function showMessage(message) {
+		$("#message").html(`
+						<div class="alert alert-success alert-dismissible fade show">
+							<button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+									${message}
+						</div>`);
+
+		/*
+		$('#message')[0].scrollIntoView(true);
+		*/
+	}
+
+
+
+	// Function to check if an element is in the viewport
+	function isElementInViewport(el) {
+		var rect = el.getBoundingClientRect();
+		return (
+			rect.top >= 0 &&
+			rect.left >= 0 &&
+			rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+			rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+		);
+	}
+
+
+	// Update updatePagination to accept filtered data
+	function updatePagination(filteredData = allOrders) {
+		const totalPages = Math.ceil(filteredData.length / pageSize);
+		const pagination = document.getElementById('pagination');
+		const tableInfo = document.getElementById('tableInfo');
+
+		// Update table info
+		const start = (currentPage - 1) * pageSize + 1;
+		const end = Math.min(currentPage * pageSize, filteredData.length);
+		tableInfo.textContent = `Showing ${filteredData.length === 0 ? 0 : start} to ${end} of ${filteredData.length} entries`;
+
+		// Clear existing pagination
+		pagination.innerHTML = '';
+
+		// Previous button
+		const prevLi = document.createElement('li');
+		prevLi.className = `page-item ${currentPage === 1 ? 'disabled' : ''}`;
+		prevLi.innerHTML = `<a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>`;
+		prevLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			if (currentPage > 1) {
+				currentPage--;
+				updateOrdersTable(filteredData);
+			}
+		});
+		pagination.appendChild(prevLi);
+
+		// Always show page 1
+		const firstLi = document.createElement('li');
+		firstLi.className = `page-item ${currentPage === 1 ? 'active' : ''}`;
+		firstLi.innerHTML = `<a class="page-link" href="#">1</a>`;
+		firstLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			currentPage = 1;
+			updateOrdersTable(filteredData);
+		});
+
+		pagination.appendChild(firstLi);
+
+		// Mobile/desktop logic
+		let isMobile = window.innerWidth <= 1200;
+		let maxPagesToShow = isMobile ? 3 : 10;
+		let numMiddlePages = isMobile ? 2 : maxPagesToShow - 2;
+		let startPage, endPage;
+
+		if (totalPages <= maxPagesToShow) {
+			startPage = 2;
+			endPage = totalPages - 1;
+		} else {
+			let beforeCurrent = Math.floor((numMiddlePages - 1) / 2);
+			let afterCurrent = numMiddlePages - 1 - beforeCurrent;
+			startPage = currentPage - beforeCurrent;
+			endPage = currentPage + afterCurrent;
+			if (startPage < 2) {
+				endPage += (2 - startPage);
+				startPage = 2;
+			}
+			if (endPage > totalPages - 1) {
+				startPage -= (endPage - (totalPages - 1));
+				endPage = totalPages - 1;
+			}
+			startPage = Math.max(startPage, 2);
+			endPage = Math.min(endPage, totalPages - 1);
+		}
+
+		if (!isMobile) {
+			// Ellipsis after 1 if needed (only if there is a gap between 1 and 2)
+			if (startPage > 2) {
+				const dotsLi = document.createElement('li');
+				dotsLi.className = 'page-item disabled';
+				dotsLi.innerHTML = `<span class="page-link">...</span>`;
+				pagination.appendChild(dotsLi);
+			}
+		}
+
+		// Main loop for pages 2 to totalPages-1
+		for (let i = startPage; i <= endPage; i++) {
+			const li = document.createElement('li');
+			li.className = `page-item ${currentPage === i ? 'active' : ''}`;
+			li.innerHTML = `<a class="page-link" href="#">${i}</a>`;
+			li.addEventListener('click', (e) => {
+				e.preventDefault();
+				currentPage = i;
+				updateOrdersTable(filteredData);
+			});
+			pagination.appendChild(li);
+		}
+
+
+		if (!isMobile) {
+			// Ellipsis before last page if needed
+			if (endPage < totalPages - 1) {
+				const dotsLi = document.createElement('li');
+				dotsLi.className = 'page-item disabled';
+				dotsLi.innerHTML = `<span class="page-link">...</span>`;
+				pagination.appendChild(dotsLi);
+			}
+		}
+
+		// Always show last page if more than 1 page
+		if (totalPages > 1) {
+			const lastLi = document.createElement('li');
+			lastLi.className = `page-item ${currentPage === totalPages ? 'active' : ''}`;
+			lastLi.innerHTML = `<a class="page-link" href="#">${totalPages}</a>`;
+			lastLi.addEventListener('click', (e) => {
+				e.preventDefault();
+				currentPage = totalPages;
+				updateOrdersTable(filteredData);
+			});
+			pagination.appendChild(lastLi);
+		}
+
+		// Next button
+		const nextLi = document.createElement('li');
+		nextLi.className = `page-item ${currentPage === totalPages ? 'disabled' : ''}`;
+		nextLi.innerHTML = `<a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>`;
+		nextLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			if (currentPage < totalPages) {
+				currentPage++;
+				updateOrdersTable(filteredData);
+			}
+		});
+		pagination.appendChild(nextLi);
+	}
+
+	// Wait for page to load before adding event listener
+	document.addEventListener('DOMContentLoaded', function() {
+		// Restore page size from localStorage if available
+		const savedPageSize = localStorage.getItem('orderTablePageSize');
+
+		if (savedPageSize) {
+			document.getElementById('pageSize').value = savedPageSize;
+			pageSize = parseInt(savedPageSize);
+		}
+		// Add event listener for page size change
+		document.getElementById('pageSize').addEventListener('change', function(e) {
+			pageSize = parseInt(e.target.value);
+			currentPage = 1; // Reset to first page when changing page size
+			updateOrdersTable(lastFilteredData); // Use the last filtered data
+			localStorage.setItem('orderTablePageSize', e.target.value);
+		});
+	});
+
+	let lastPaginationCount = null;
+	let lastPaginationPage = null;
+
+
+	// Function to update pagination controls
+	function updatePagination(filteredData = allOrders) {
+		const totalPages = Math.ceil(filteredData.length / pageSize);
+		const pagination = document.getElementById('pagination');
+		const tableInfo = document.getElementById('tableInfo');
+
+		// Update table info
+		const start = (currentPage - 1) * pageSize + 1;
+		const end = Math.min(currentPage * pageSize, filteredData.length);
+		tableInfo.textContent = `Showing ${filteredData.length === 0 ? 0 : start} to ${end} of ${filteredData.length} entries`;
+
+		// Clear existing pagination
+		pagination.innerHTML = '';
+
+		// Previous button
+		const prevLi = document.createElement('li');
+		prevLi.className = `page-item ${currentPage === 1 ? 'disabled' : ''}`;
+		prevLi.innerHTML = `<a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>`;
+		prevLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			if (currentPage > 1) {
+				currentPage--;
+				updateOrdersTable(filteredData);
+			}
+		});
+		pagination.appendChild(prevLi);
+
+		// Always show page 1
+		const firstLi = document.createElement('li');
+		firstLi.className = `page-item ${currentPage === 1 ? 'active' : ''}`;
+		firstLi.innerHTML = `<a class="page-link" href="#">1</a>`;
+		firstLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			currentPage = 1;
+			updateOrdersTable(filteredData);
+		});
+
+		pagination.appendChild(firstLi);
+
+		// Mobile/desktop logic
+		let isMobile = window.innerWidth <= 1200;
+		let maxPagesToShow = isMobile ? 3 : 10;
+		let numMiddlePages = isMobile ? 2 : maxPagesToShow - 2;
+		let startPage, endPage;
+
+		if (totalPages <= maxPagesToShow) {
+			startPage = 2;
+			endPage = totalPages - 1;
+		} else {
+			let beforeCurrent = Math.floor((numMiddlePages - 1) / 2);
+			let afterCurrent = numMiddlePages - 1 - beforeCurrent;
+			startPage = currentPage - beforeCurrent;
+			endPage = currentPage + afterCurrent;
+			if (startPage < 2) {
+				endPage += (2 - startPage);
+				startPage = 2;
+			}
+			if (endPage > totalPages - 1) {
+				startPage -= (endPage - (totalPages - 1));
+				endPage = totalPages - 1;
+			}
+			startPage = Math.max(startPage, 2);
+			endPage = Math.min(endPage, totalPages - 1);
+		}
+
+		if (!isMobile) {
+			// Ellipsis after 1 if needed
+			if (startPage > 2) {
+				const dotsLi = document.createElement('li');
+				dotsLi.className = 'page-item disabled';
+				dotsLi.innerHTML = `<span class="page-link">...</span>`;
+				pagination.appendChild(dotsLi);
+			}
+
+			// Ellipsis before last page if needed
+			if (endPage < totalPages - 1) {
+				const dotsLi = document.createElement('li');
+				dotsLi.className = 'page-item disabled';
+				dotsLi.innerHTML = `<span class="page-link">...</span>`;
+				pagination.appendChild(dotsLi);
+			}
+		}
+
+
+		// Main loop for pages 2 to totalPages-1
+		for (let i = startPage; i <= endPage; i++) {
+			const li = document.createElement('li');
+			li.className = `page-item ${currentPage === i ? 'active' : ''}`;
+			li.innerHTML = `<a class="page-link" href="#">${i}</a>`;
+			li.addEventListener('click', (e) => {
+				e.preventDefault();
+				currentPage = i;
+				updateOrdersTable(filteredData);
+			});
+			pagination.appendChild(li);
+		}
+
+		// Always show last page if more than 1 page
+		if (totalPages > 1) {
+			const lastLi = document.createElement('li');
+			lastLi.className = `page-item ${currentPage === totalPages ? 'active' : ''}`;
+			lastLi.innerHTML = `<a class="page-link" href="#">${totalPages}</a>`;
+			lastLi.addEventListener('click', (e) => {
+				e.preventDefault();
+				currentPage = totalPages;
+				updateOrdersTable(filteredData);
+			});
+			pagination.appendChild(lastLi);
+		}
+
+		// Next button
+		const nextLi = document.createElement('li');
+		nextLi.className = `page-item ${currentPage === totalPages ? 'disabled' : ''}`;
+		nextLi.innerHTML = `<a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>`;
+		nextLi.addEventListener('click', (e) => {
+			e.preventDefault();
+			if (currentPage < totalPages) {
+				currentPage++;
+				updateOrdersTable(filteredData);
+			}
+		});
+		pagination.appendChild(nextLi);
+	}
+
+	function updateOrdersTable(data) {
+		var shownTips = new Set();
+
+		allOrders = data; // Store all orders
+		const tbody = document.getElementById('orders');
+		tbody.innerHTML = ''; // Clear existing rows
+
+		// Filter logic
+		let filtered = data;
+		if (filterValue) {
+			filtered = data.filter(order => {
+				return (
+					(order.phonenumber && order.phonenumber.toLowerCase().includes(filterValue)) ||
+					(order.service && order.service.toLowerCase().includes(filterValue)) ||
+					(order.country && order.country.toLowerCase().includes(filterValue)) ||
+					(order.status && order.status.toLowerCase().includes(filterValue))
+				);
+			});
+		}
+		lastFilteredData = filtered;
+
+		// Calculate start and end indices for current page
+		const start = (currentPage - 1) * pageSize;
+		const end = start + pageSize;
+		const pageData = filtered.slice(start, end);
+
+		const isMobile = window.innerWidth <= 1200;
+
+		pageData.forEach(order => {
+			const row = document.createElement('tr');
+			row.setAttribute('data-order-id', order.id);
+			row.setAttribute('data-status', order.status);
+			row.setAttribute('data-code', order.code);
+			row.setAttribute('data-time-left', order.time_left ? order.time_left.toString() : null);
+
+			// Create status badge
+			const statusClass = order.status === 'completed' ? 'bg-success' :
+				order.status === 'pending' ? 'bg-warning' :
+				order.status === 'activating' ? 'bg-info' : 'bg-danger';
+
+			// Create action buttons
+			const actionButtons = `
+					${order.can_resend ? 
+							`<button onclick="resendOrder(this, '${order.order_code}', '${apikey}')" class="btn btn-sm btn-primary mb-1">
+								Resend
+							</button>` : ''}
+					${order.can_refund ? 
+							`<button onclick="refundOrder(this, '${order.order_code}', '${apikey}')" class="btn btn-sm btn-warning mb-1">
+								Refund
+							</button>` : ''}
+					${order.can_archive ? 
+							`<button onclick="refundOrder(this, '${order.order_code}', '${apikey}')" class="btn btn-sm btn-warning mb-1">
+								Archive
+							</button>` : ''}
+					${order.can_reactivate ? 
+							`<button onclick="reactivateOrder(this, '${order.order_code}', '${apikey}')" class="btn btn-sm btn-info mb-1">
+								Reactivate
+							</button>` : ''}
+				`;
+
+			if (isMobile) {
+				if (order.status == 'pending') {
+					order.status = 'Awaiting SMS';
+				}
+				// Mobile card layout
+				row.innerHTML = `
+					<td colspan=\"8\">
+						<div class=\"order-phone-status-container\">
+							<div class=\"order-country-top-right\">${order.country}</div>
+							<div class=\"order-phone\"><span id=\"copy\" rel=\"${order.cc}${order.phonenumber}\">+${order.cc}</span> <span id=\"copy\" rel=\"${order.phonenumber}\">${order.phonenumber}</span></div>
+							<div class=\"order-status\"><span class=\"badge ${statusClass}\">${order.status.charAt(0).toUpperCase() + order.status.slice(1)} ${order.time_left && order.status != 'activating' ? `(${order.time_left}s)` : ''}</span></div>
+							<div style=\"margin-bottom:0.3em;\">${order.service}</div>
+							<div class="order-cost">$${order.cost}</div>
+							<div class="order-code">${order.code === '0' ? 'No SMS received' : (order.time_left ? '<i class="ph-spinner spinner"></i>' : `<span id="copy" rel="${order.code}" onclick="showMessage('${order.full_code}')">${order.code}</span>`)}</div>
+							<div class=\"order-actions\">${actionButtons}</div>
+						</div>
+					</td>
+				`;
+			} else {
+				if (order.status == 'pending') {
+					order.status = 'Awaiting SMS';
+				}
+				// Desktop/tablet: keep table layout
+				row.innerHTML = `
+					<td data-label=\"ID\">${order.id}</td>
+					<td data-label=\"Phone Number\"><span id=\"copy\" rel=\"${order.cc}${order.phonenumber}\">+${order.cc}</span> <span id=\"copy\" rel=\"${order.phonenumber}\">${order.phonenumber}</span></td>
+					<td data-label=\"Code\">
+						${order.time_left ? `<i class=\"ph-spinner spinner\"></i>` : 
+							order.code === '0' ? '0' : `
+							<span id="copy" rel="${order.code}" onclick="showMessage('${order.full_code}')">${order.code}</span>
+							`}
+					</td>
+					<td data-label=\"Service\">${order.service}</td>
+					<td data-label=\"Country\">${order.country}</td>
+					<td data-label=\"Status\"><span class=\"badge ${statusClass}\">${order.status.charAt(0).toUpperCase() + order.status.slice(1)} ${order.time_left && order.status != 'activating' ? `(${order.time_left}s)` : ''}</span></td>
+					<td data-label=\"Cost\">$${order.cost}</td>
+					<td data-label=\"Actions\">${actionButtons}</td>
+				`;
+			}
+			tbody.appendChild(row);
+
+			if (order.status == 'activating') {
+				const activatingRow = document.createElement('tr');
+				activatingRow.classList.add('activating-row');
+				activatingRow.innerHTML = `
+					<td colspan=\"8\">
+						The number is currently being activated. Please wait until the number is activated before sending any SMS.
+					</td>`;
+				tbody.appendChild(activatingRow);
+			}
+
+			// Handle tips
+			if (tipsArray[order.service_id] && !shownTips.has(order.service_id)) {
+				const tipRow = document.createElement('tr');
+				tipRow.classList.add('tip-row');
+				tipRow.innerHTML = `
+						<td colspan=\"8\">
+							${tipsArray[order.service_id]}
+						</td>`;
+				tbody.appendChild(tipRow);
+				shownTips.add(order.service_id);
+			}
+		});
+
+		// Only update pagination if the count or current page has changed
+		if (filtered.length !== lastPaginationCount || currentPage !== lastPaginationPage) {
+			updatePagination(filtered);
+			lastPaginationCount = filtered.length;
+			lastPaginationPage = currentPage;
+		}
+	}
+
+
+	// Function to fetch and update orders
+	function fetchOrders() {
+		if (document.visibilityState === 'visible') {
+			$.ajax({
+				url: `${endpoint_url}/request/orders_new`,
+				type: "POST",
+				data: {
+					format: 2,
+					limit: 1,
+					key: apikey,
+					last_update: lastResponse ? lastResponse.timestamp : 0
+				},
+				success: function(response) {
+					if (JSON.stringify(response) !== JSON.stringify(lastResponse)) {
+						const tbody = document.getElementById('orders');
+						// Use allOrders for ID comparison, not just paginated rows
+						const existingIds = allOrders.map(order => order.order_code.toString());
+						const responseIds = response.map(order => order.order_code.toString());
+
+						// If the table is empty, or the set/order of IDs has changed, re-render everything
+						const idsChanged = existingIds.length !== responseIds.length ||
+							!existingIds.every((id, i) => id === responseIds[i]);
+
+						if (idsChanged || existingIds.length === 0) {
+							updateOrdersTable(response);
+						} else {
+							// Efficiently update only changed rows
+							const existingRows = new Map();
+							Array.from(tbody.children).forEach(row => {
+								const orderId = row.getAttribute('data-order-id');
+								if (orderId) {
+									existingRows.set(orderId, row);
+								}
+							});
+							response.forEach(order => {
+								const row = existingRows.get(order.id.toString());
+								if (row) {
+									// Only update if status, code, or time_left changed
+									const currentStatus = row.getAttribute('data-status');
+									const currentCode = row.getAttribute('data-code');
+									const currentTimeLeft = row.getAttribute('data-time-left');
+									if (
+										currentStatus !== order.status ||
+										currentCode !== order.code ||
+										currentTimeLeft !== (order.time_left ? order.time_left.toString() : null)
+									) {
+										// Update status badge
+										const statusClass = order.status === 'completed' ? 'bg-success' :
+											order.status === 'pending' ? 'bg-warning' :
+											order.status === 'activating' ? 'bg-info' : 'bg-danger';
+
+
+										if (order.status == 'pending') {
+											order.status = 'Awaiting SMS';
+										}
+										// Update status cell
+										const statusCell = row.querySelector('[data-label="Status"]');
+										if (statusCell) {
+											statusCell.innerHTML = `<span class="badge ${statusClass}">${order.status.charAt(0).toUpperCase() + order.status.slice(1)} ${order.time_left && order.status != 'activating' ? `(${order.time_left}s)` : ''}</span>`;
+										}
+
+										// Update code cell
+										const codeCell = row.querySelector('[data-label="Code"]');
+										if (codeCell) {
+											codeCell.innerHTML = order.time_left ?
+												`<i class="ph-spinner spinner"></i>` :
+												order.code === '0' ? '0' :
+												`<span id="copy" rel="${order.code}" onclick="showMessage('${order.full_code}')">${order.code}</span>`;
+										}
+
+										// Update mobile view if needed
+										const mobileStatus = row.querySelector('.order-status');
+										if (mobileStatus) {
+											mobileStatus.innerHTML = `<span class="badge ${statusClass}">${order.status.charAt(0).toUpperCase() + order.status.slice(1)} ${order.time_left && order.status != 'activating' ? `(${order.time_left}s)` : ''}</span>`;
+										}
+
+										const mobileCode = row.querySelector('.order-code');
+										if (mobileCode) {
+											mobileCode.innerHTML = order.time_left ?
+												`<i class="ph-spinner spinner"></i>` :
+												order.code === '0' ? 'No SMS received' :
+												`<span id="copy" rel="${order.code}" onclick="showMessage('${order.full_code}')">${order.code}</span>`;
+										}
+
+										// Update data attributes
+										row.setAttribute('data-status', order.status);
+										row.setAttribute('data-code', order.code);
+										row.setAttribute('data-time-left', order.time_left ? order.time_left.toString() : null);
+
+										// Handle notifications
+										if (localStorage.getItem("audio") &&
+											order.status === 'completed' &&
+											!notifications.includes(order.phonenumber)) {
+											notifications.push(order.phonenumber);
+											if (iterations > 0) {
+												sound.play();
+											}
+										}
+									}
+								}
+							});
+						}
+						lastResponse = response;
+						iterations++;
+					}
+				},
+				error: function(xhr, error, code) {
+					console.log(xhr, code);
+				}
+			});
+		}
+	}
+
+	function resendOrder(object, orderid, apikey) {
+		$.ajax({
+			url: endpoint_url + "/sms/check_resend",
+			type: "POST",
+			data: {
+				key: apikey,
+				orderid: orderid
+			},
+			success: function(d) {
+				var resend = localStorage.getItem("resend") ?? null;
+				var submit = 0;
+
+				if (!resend) {
+					if (d.resendCost > 0.00) {
+						if (confirm(`You have reached the maximum free resends, for another re-send you will be charged ${d.resendCost} cents, are you sure?`)) {
+							submit = 1;
+						}
+					} else {
+						if (confirm("Are you sure you would like to resend this order?")) {
+							submit = 1;
+						}
+					}
+				} else {
+					submit = 1;
+				}
+
+				if (submit) {
+					$.ajax({
+						url: endpoint_url + "/sms/resend",
+						type: "POST",
+						data: {
+							key: apikey,
+							orderid: orderid
+						},
+						success: function(data) {
+							var color = data.success == 1 ? "alert-success" : "alert-danger";
+
+							if (data.success) {
+								$(object).closest('tr').hide();
+							}
+
+							new Noty({
+								text: data.message,
+								type: data.success ? 'success' : 'error'
+							}).show();
+						},
+						error: function(xhr, status, error) {
+							const data = xhr.responseJSON;
+
+							new Noty({
+								text: data.message,
+								type: data.success ? 'success' : 'error'
+							}).show();
+						}
+					});
+				}
+			},
+			error: function(xhr, status, error) {
+				const data = xhr.responseJSON;
+
+				new Noty({
+					text: data.message,
+					type: data.success ? 'success' : 'error'
+				}).show();
+			}
+		});
+	}
+
+	$(document).ready(function() {
+		setTimeout(function() {
+			retrieveBalance(apikey)
+		}, 30000);
+
+		$('.form-control-select2').select2({
+			theme: 'bootstrap4',
+			matcher: function(params, data) {
+				if (data.id === "817") { // <-- option value of "Other", always appears in results
+					return data;
+				} else {
+					return $.fn.select2.defaults.defaults.matcher.apply(this, arguments);
+				}
+			},
+			dropdownParent: $('#service').parent(),
+			scrollAfterSelect: false
+		});
+
+
+		if (!$().DataTable) {
+			console.warn('Warning - datatables.min.js is not loaded.');
+			return;
+		}
+
+		// Setting datatable defaults
+		$.extend($.fn.dataTable.defaults, {
+			autoWidth: true,
+			responsive: true,
+			columnDefs: [{
+				orderable: false,
+				width: 100,
+			}],
+			aaSorting: [
+				[0, 'desc']
+			],
+			dom: '<"datatable-header"fl><"datatable-scroll-wrap"t><"datatable-footer"ip>',
+			language: {
+				search: '<span class="me-3">Filter:</span> <div class="form-control-feedback form-control-feedback-end flex-fill">_INPUT_<div class="form-control-feedback-icon"><i class="ph-magnifying-glass opacity-50"></i></div></div>',
+				searchPlaceholder: 'Type to filter...',
+				lengthMenu: '<span class="me-3">Show:</span> _MENU_',
+				paginate: {
+					'first': 'First',
+					'last': 'Last',
+					'next': document.dir == "rtl" ? '←' : '→',
+					'previous': document.dir == "rtl" ? '→' : '←'
+				}
+			}
+		});
+
+		function openChildRow(row) {
+			var tr = $(row.node());
+			if (!row.child.isShown()) { // Check if the child row is already open
+				row.child(format(row.data())).show(); // Format and show the child row
+				tr.addClass('shown'); // Mark the row as open
+			}
+		}
+
+		var service_listed = [];
+
+		function hasDescription(service) {
+			if (tipsArray) {
+				if (tipsArray[service]) {
+					return true;
+				}
+			}
+
+			return false;
+		}
+
+		function returnDescription(service) {
+
+			if (tipsArray) {
+				if (tipsArray[service]) {
+					if (!service_listed.includes(service)) {
+						service_listed.push(service);
+						return tipsArray[service];
+					}
+				}
+			}
+
+			return false;
+		}
+
+		function format(d) {
+			var description = returnDescription(d.service_id);
+			if (description) {
+				return `<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">
+						${description}
+					</table>`;
+			}
+
+			return false;
+		}
+
+		fetchOrders();
+
+		// Start polling for orders
+		let orderIntervalId = setInterval(fetchOrders, 1000);
+
+		// Handle visibility change
+		document.addEventListener('visibilitychange', function() {
+			if (document.visibilityState === 'hidden') {
+				clearInterval(orderIntervalId);
+			} else {
+				orderIntervalId = setInterval(fetchOrders, 1000);
+			}
+		});
+
+		$('#full_sms').on('show.bs.modal', function(event) {
+			var button = $(event.relatedTarget)
+			var full_sms = button.data('sms')
+			var modal = $(this)
+			modal.find("#full_code").html(`${full_sms}`)
+		});
+
+
+	});
+</script>
+
+</html># https-zhangZYF5223.github.io-ppz-stor-
